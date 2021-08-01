@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Muhammad Ghayas Baig
 - 👀 I’m interested in solving problems, doing that at Airlift currently
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on everything
+- 💞️ I’m looking to collaborate on anything
 - 📫 React me out at ghayasbaig247@gmail.com
 
 <b>Some interesting facts about me</b>
