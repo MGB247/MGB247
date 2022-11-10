@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 Reach me out at ghayasbaig247@gmail.com
 
-<b>Some interesting facts about me</b>
+<!-- <b>Some interesting facts about me</b> -->
 <!-- 
 [![Top Langs](https://github-readme-stats-ih7ciew4c-mgb247.vercel.app/api/top-langs?username=mgb247&hide=java&langs_count=8&bg_color=45,c31432,240b36&show_icons=true&border_radius=10&hide_border=true&icon_color=fff&title_color=fff&text_color=fff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
