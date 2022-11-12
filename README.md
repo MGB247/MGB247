@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on anything
 - 📫 Reach me out at ghayasbaig247@gmail.com
-- 📕 Read my blog at https://medium.com/@mgb247 or https://mgb247.github.io/
+- 📕 Read my blog at [medium](https://medium.com/@mgb247) or [mgb247](https://mgb247.github.io/)
 
 <!-- <b>Some interesting facts about me</b> -->
 <!-- 
