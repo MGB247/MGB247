@@ -1,7 +1,7 @@
 <b>Hello!</b>
 
 - 👋 Hi, I’m Muhammad Ghayas Baig
-- 👀 I’m interested in solving problems, doing that at Airlift currently
+- 👀 I’m interested in solving problems, doing that at @Rewaa currently
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on anything
 - 📫 Reach me out at ghayasbaig247@gmail.com
