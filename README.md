@@ -1,10 +1,6 @@
-<b>Hello!</b>
-
-- 👋 Hi, I’m Muhammad Ghayas Baig
-- 👀 I’m interested in solving problems, doing that at Rewaa currently
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on anything
-- 📫 Reach me out at ghayasbaig247@gmail.com
+- 👋 Hi, I do poetry
+- 👀 Currently composing verses at Rewaa
+- 📫 Reach me at ghayasbaig247@gmail.com
 - 📕 Read my blog at [medium](https://medium.com/@mgb247) or [mgb247](https://mgb247.github.io/)
 
 <!-- <b>Some interesting facts about me</b> -->
