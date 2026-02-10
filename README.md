@@ -1,5 +1,4 @@
 - 👋 Hi, I do poetry
-- 👀 Currently composing verses at Rewaa
 - 📫 Reach me at ghayasbaig247@gmail.com
 - 📕 Read my blog at [medium](https://medium.com/@mgb247) or [mgb247](https://mgb247.github.io/)
 
